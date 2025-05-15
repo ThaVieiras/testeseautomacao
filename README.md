@@ -59,8 +59,7 @@ Para utilizar o validador em seu projeto TypeScript/JavaScript:
         const minhaConta = new NumeroConta("123456"); // Supondo que o construtor já valida
         console.log("Número de conta válido!");
 
-    // Exemplo de uso de um método de validação explícito, se houver
-    // minhaConta.validar("12345"); // Isso poderia lançar um erro
+    // Exemplo de uso de um método de validação explícito, se houver // minhaConta.validar("12345"); 
 
         const contaInvalida = new NumeroConta("123");
     } catch (error) {
