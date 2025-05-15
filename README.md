@@ -27,11 +27,11 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/ThaVieiras/SEU-REPOSITORIO.git](https://github.com/ThaVieiras/SEU-REPOSITORIO.git) # SUBSTITUA PELO NOME CORRETO
+    git clone [https://github.com/ThaVieiras/testeseautomacao.git](https://github.com/ThaVieiras/testeseautomacao.git) 
     ```
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd SEU-REPOSITORIO # SUBSTITUA PELO NOME CORRETO
+    cd testeseautomacao 
     ```
 3.  **Instale as dependências:**
     ```bash
@@ -97,7 +97,7 @@ Para executar os testes automatizados do projeto, utilize os seguintes comandos:
 
 ## 📁 Estrutura do Projeto
 
-A estrutura de pastas do projeto é organizada da seguinte forma (exemplo):
+A estrutura de pastas do projeto é organizada da seguinte forma:
 ```
 ├── coverage/        # Relatórios de cobertura de testes
 ├── node_modules/    # Dependências do projeto
@@ -115,7 +115,7 @@ A estrutura de pastas do projeto é organizada da seguinte forma (exemplo):
 
 ## Licença
 
-Este projeto foi desenvolvido como parte do curso [Automação de testes de Software] ministrado pela instituição Impacta.
+Este projeto foi desenvolvido como parte do curso Automação de testes de Software ministrado pela instituição Impacta.
 
 
 ## 👤 Autor
